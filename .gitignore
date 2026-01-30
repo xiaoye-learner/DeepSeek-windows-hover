@@ -1,0 +1,14 @@
+# 忽略 DeepSeek HUD 的本地配置文件（包含 API Key）
+deepseek_hud_config.json
+
+# 忽略 Python 虚拟环境
+venv/
+.venv/
+
+# 忽略 Python 编译产生的缓存文件
+__pycache__/
+*.py[cod]
+
+# 忽略 VS Code 或 PyCharm 的配置文件夹
+.vscode/
+.idea/
