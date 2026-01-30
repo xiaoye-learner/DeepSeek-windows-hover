@@ -28,6 +28,7 @@ pip install -r requirements.txt
 
 # 运行主程序
 python HUDWidget.py
+```
 
 ### 2. 首次配置 (API Key)
 程序首次启动时，屏幕中央会弹出 DeepSeek 初始配置 窗口。
